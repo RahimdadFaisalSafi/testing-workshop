@@ -7,7 +7,7 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "*.{js}": [
+    "*.js": [
       "vitest related --run"
     ]
   },

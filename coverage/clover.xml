@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1741099626050" clover="3.2.0">
-  <project timestamp="1741099626050" name="All files">
-    <metrics statements="79" coveredstatements="58" conditionals="17" coveredconditionals="12" methods="1" coveredmethods="1" elements="97" coveredelements="71" complexity="0" loc="79" ncloc="79" packages="1" files="1" classes="1"/>
+<coverage generated="1741100438332" clover="3.2.0">
+  <project timestamp="1741100438332" name="All files">
+    <metrics statements="80" coveredstatements="59" conditionals="17" coveredconditionals="12" methods="1" coveredmethods="1" elements="98" coveredelements="72" complexity="0" loc="80" ncloc="80" packages="1" files="1" classes="1"/>
     <file name="validateScore.js" path="/home/rahimdadfaisalsafi/Techstarter/Hausaufgabe/testing-workshop/src/validateScore.js">
-      <metrics statements="79" coveredstatements="58" conditionals="17" coveredconditionals="12" methods="1" coveredmethods="1"/>
+      <metrics statements="80" coveredstatements="59" conditionals="17" coveredconditionals="12" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -83,6 +83,7 @@
       <line num="87" count="0" type="stmt"/>
       <line num="89" count="1" type="stmt"/>
       <line num="90" count="1" type="stmt"/>
+      <line num="93" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

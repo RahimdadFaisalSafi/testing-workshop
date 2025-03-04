@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test:precommit": "vitest",
-    "prepare": "husky"
+    "prepare": "husky install"
   },
   "lint-staged": {
     "*.{js}": [

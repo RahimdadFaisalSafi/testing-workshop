@@ -1,7 +1,6 @@
 /**
 * Validiert und bewertet eine Punktzahl basierend auf verschiedenen
 Kriterien.
-*
 * @param {number} score - Die zu validierende Punktzahl (0-100)
 * @param {Object} options - Optionale Konfiguration
 * @param {number} options.passingScore - Mindestpunktzahl zum
